@@ -64,9 +64,6 @@ Currently: Grinding CTF machines & building tools
 
 ## 📊 Stats
 
-
-## 📊 Stats
-
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=itsC1SCO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
@@ -82,20 +79,6 @@ Currently: Grinding CTF machines & building tools
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsC1SCO&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 
 </div>
-<br>
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api/activity?username=itsC1SCO&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true" alt="GitHub Activity" width="100%"/>
-
-</div>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsC1SCO&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
-
-<br>
 
 ## 🔗 Connect
 
