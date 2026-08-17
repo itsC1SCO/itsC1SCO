@@ -29,7 +29,7 @@ Currently: Grinding CTF machines & building tools
 
 <br>
 
-## ⚡ arsenal
+## ⚡ Arsenal
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Currently: Grinding CTF machines & building tools
 
 <br>
 
-## 🎯 hack the box
+## 🎯 Hack the box
 
 <div align="center">
 
@@ -62,7 +62,7 @@ Currently: Grinding CTF machines & building tools
 
 <br>
 
-## 📊 stats
+## 📊 Stats
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Currently: Grinding CTF machines & building tools
 
 <br>
 
-## 🔗 connect
+## 🔗 Connect
 
 <div align="center">
 
