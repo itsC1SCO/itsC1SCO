@@ -64,10 +64,12 @@ Currently: Grinding CTF machines & building tools
 
 ## 📊 Stats
 
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=itsC1SCO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsC1SCO&theme=highcontrast&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Streak Stats" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=itsC1SCO&theme=highcontrast&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Streak Stats" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsC1SCO&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="165"/>
 
